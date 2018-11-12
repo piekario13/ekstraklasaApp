@@ -37,8 +37,39 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Notice
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+user auth
+typowanie kolejek
+punktacja wyniku
+możliwości typowania:
+dokładny wynik (ilość bramek) 5
+zwyciężca + różnica bramek 3
+zwyciężca 2
+historia typowania
+typy użytkowników są jawne
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+Rejestracja użytkownika
+ nick
+email
+imię i nazwisko
+wiek
+płeć
+avatar
+Zalogowanie
+email/login
+hasło
+odzyskiwanie hasła
+
+Typowanie:
+x - remis
+dokładny wynik - 5pkt
+niedokładny wynik - 3pkt
+1 - dokładny wynik - 5pkt
+2 - wygrana + ilość bramek
+tylko wygrana - 2pkt
+wygrana + różnica bramek -3pkt
+
+
+app (html, css, js, react) -> node (js) -> BD (mongoDB)

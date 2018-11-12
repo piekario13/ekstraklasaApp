@@ -1,0 +1,16 @@
+{
+  "nick": "Piekario",
+  "email": "test@test.pl",
+  "name": "Jacek",
+  "surname": "Piekarski",
+  "password": "admin123",
+  "age": "18"
+},
+{
+  "nick": "AdamWu",
+  "email": "test@test.pl",
+  "name": "Adam",
+  "surname": "Wasilewski",
+  "password": "admin321",
+  "age": "17"
+}
