@@ -1,0 +1,52 @@
+ul {
+    display: flex;
+    list-style-type: none;
+    background-color: #000;
+}
+
+li {
+    flex-grow: 1;
+}
+
+a {
+    display: block;
+    padding: 15px 25px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    text-transform: uppercase;
+}
+
+li:nth-child(5) a {
+    border-right: none;
+}
+
+.active {
+    color: #000;
+    background-color: #fff;
+    border-bottom: 4px solid #000;
+    letter-spacing: 10px;
+    border-right: none;
+}
+
+img {
+    width: 50%;
+    margin-top: 10px;
+}
+
+button {
+    float: right;
+    padding: 5px;
+    margin: 40px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #000;
+    background-color: #fff;
+}
