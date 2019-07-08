@@ -2,15 +2,10 @@ import React, { Component } from 'react'
 import { BrowserRouter as Router } from 'react-router-dom'
 import Login from '../Login'
 import '../styles/App.css'
-import Timetable from './Timetable'
-import Ranking from './Ranking'
-import Rules from './Rules.js'
-import Contact from './Contact'
-import ErrorPage from './ErrorPage'
+import Page from './Page'
 import Footer from './Footer'
-import Table from './Table'
-import PrevQueue from './PrevQueue'
 import Navigation from './Navigation.js'
+import Addition from './Addition.js'
 
 
 class App extends Component {
@@ -24,18 +19,13 @@ class App extends Component {
           </header>
           <main className="jumbotron">
             <aside>
-              {<Table />}
-              {<PrevQueue />}
+              {<Addition />}
             </aside>
             <section className="subject">
-              {<Timetable />}
-              {<Rules />}
-              {<Ranking />}
-              {<Contact />}
+              {<Page />}
             </section>
           </main>
           <footer>{<Footer />}</footer>
-          {<ErrorPage />}
         </div>
       </Router>
     );
