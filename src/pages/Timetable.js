@@ -2,28 +2,36 @@ import React, { Component } from 'react';
 import '../styles/MainSubject.css';
 
 
+const Queue = () => (<li>sadsdasdsadasd</li>)
+
 class Timetable extends Component {
     state = {
-        words: []
+        queues: []
     }
 
     componentDidMount() {
-        fetch('data/words.json')
+        fetch('data/queues.json')
             .then(response => response.json())
             .then(data => {
+                console.log(data)
                 this.setState({
-                    words: data.words
+                    queues: data.queues
                 })
             })
     }
     render() {
+        const queues = this.state.queues.map(element => (
+            <Queue key={element.id} />
+        ))
         return (
-            <div>
-                sdfds
-            </div>
+            <ul>
+                {queues}
+            </ul>
         );
     }
 }
+
+
 
 export default Timetable;
 
