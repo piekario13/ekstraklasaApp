@@ -1,7 +1,6 @@
 {
-    "queues": [
+    "league": [
         {
-            "number": 1,
             "queue1": [
                 {
                     "id": 1,
@@ -43,94 +42,46 @@
                     "sched": "ŁKS Łódź - Lechia Gdańsk",
                     "result": null
                 }
-            ]
-        },
-        {
-            "number": 2,
+            ],
             "queue2": [
                 {
                     "id": 1,
-                    "sched": "Cracovia - ŁKS Łódź",
+                    "sched": "Arka Gdynia - Jagiellonia Białystok",
                     "result": null
                 },
                 {
                     "id": 2,
-                    "sched": "Górnik Zabrze - KGHM Zagłębie Lubin",
+                    "sched": "KGHM Zagłębie Lubin - Cracovia",
                     "result": null
                 },
                 {
                     "id": 3,
-                    "sched": "Jagiellonia Białystok - Raków Częstochowa",
+                    "sched": "Legia Warszawa - Pogoń Szczecin",
                     "result": null
                 },
                 {
                     "id": 4,
-                    "sched": "Korona Kielce - Legia Warszawa",
+                    "sched": "Piast Gliwice - Lech Poznań",
                     "result": null
                 },
                 {
                     "id": 5,
-                    "sched": "Lech Poznań - Wisła Płock",
+                    "sched": "Raków Częstochowa - Korona Kielce",
                     "result": null
                 },
                 {
                     "id": 6,
-                    "sched": "Lechia Gdańsk - Wisła Kraków",
+                    "sched": "Wisła Kraków - Śląsk Wrocław",
                     "result": null
                 },
                 {
                     "id": 7,
-                    "sched": "Pogoń Szczecin - Arka Gdynia",
+                    "sched": "Wisła Płock - Górnik Zabrze",
                     "result": null
                 },
                 {
                     "id": 8,
-                    "sched": "Śląsk Wrocław - Piast Gliwice",
-                    "result": null
-                }
-            ]
-        },
-        {
-            "number": 3,
-            "queue3": [
-                {
-                    "id": 1,
-                    "sched": "Arka Gdynia - Korona Kielce",
-                    "result": null
-                },
-                {
-                    "id": 2,
-                    "sched": "KGHM Zagłębie Lubin - Jagiellonia Białystok",
-                    "result": null
-                },
-                {
-                    "id": 3,
-                    "sched": "Legia Warszawa – Śląsk Wrocław",
-                    "result": null
-                },
-                {
-                    "id": 4,
-                    "sched": "Piast Gliwice – Pogoń Szczecin",
-                    "result": null
-                },
-                {
-                    "id": 5,
-                    "sched": "Raków Częstochowa – Cracovia",
-                    "result": null
-                },
-                {
-                    "id": 6,
-                    "sched": "Wisła Kraków – Górnik Zabrze",
-                    "result": null
-                },
-                {
-                    "id": 7,
-                    "sched": "Wisła Płock – Lechia Gdańsk",
-                    "result": null
-                },
-                {
-                    "id": 8,
-                    "sched": "ŁKS Łódź – Lech Poznań",
+                    "sched": "ŁKS Łódź - Lechia Gdańsk",
                     "result": null
                 }
             ]
