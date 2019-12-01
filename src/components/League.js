@@ -1,8 +1,8 @@
 import React from 'react'
 
-const League = (props) => {
+const League = ({ matches }) => {
     return (
-        <div>{props.league}</div>
+        <li>{matches}</li>
     );
 }
 

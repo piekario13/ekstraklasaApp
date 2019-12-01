@@ -5,7 +5,7 @@ import League from '../components/League'
 
 class Timetable extends Component {
   state = {
-    league: [],
+    rounds: [],
     procesing: true
   }
 
@@ -15,19 +15,19 @@ class Timetable extends Component {
       .then(data => {
         console.log(data)
         this.setState({
-          league: data.league,
+          rounds: data.rounds,
           procesing: false
         })
       })
   }
   render() {
-    const { league, procesing } = this.state
+    const { rounds, procesing, } = this.state
     return !procesing ? (
-      <ul>
-        {league.map(element => (
-          <League key={league} league={element.league} />
+      <div>
+        {rounds.map(element => (
+          <League key={element.name} matches={element.name} />
         ))}
-      </ul>
+      </div>
     ) : (
         'Trwa ładowanie'
       )

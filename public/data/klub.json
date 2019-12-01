@@ -1,0 +1,213 @@
+"key": "gornik",
+"name": "Górnik Zabrze",
+"code": "GOR"
+
+
+"key": "wisla",
+"name": "Wisła Kraków",
+"code": "WIS"
+
+"key": "pog",
+"name": "Pogoń Szczecin",
+"code": "POG"
+
+
+"key": "pia",
+"name": "Piast Gliwice",
+"code": "PIA"
+
+
+"key": "slask",
+"name": "Śląsk Wrocław",
+"code": "SLA"
+
+
+"key": "leg",
+"name": "Legia Warszawa",
+"code": "LEG"
+
+
+"key": "lechia",
+"name": "Lechia Gdańsk",
+"code": "LECG"
+
+
+"key": "wislaplock",
+"name": "Wisła Płock",
+"code": "WISP"
+
+
+"key": "lech",
+"name": "Lech Poznań",
+"code": "LECH"
+
+
+"key": "lks",
+"name": "ŁKS Łódź",
+"code": "LKS"
+
+
+"key": "crac",
+"name": "Cracovia Kraków",
+"code": "CRA"
+
+
+"key": "rakow",
+"name": "Raków Częstochowa",
+"code": "RAK"
+
+
+"key": "jagiellonia",
+"name": "Jagiellonia Białystok",
+"code": "JAG"
+
+
+"key": "zag",
+"name": "Zagłębie Lubin",
+"code": "ZAG"
+
+
+"key": "korona",
+"name": "Korona Kielce",
+"code": "KOR"
+
+
+"key": "arka",
+"name": "Arka Gdynia",
+"code": "ARK"
+
+
+
+{
+    "name": "Runde XX",
+    "matches": [
+        {
+            "id": 1,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 2,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 3,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 4,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 5,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 6,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 7,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        },
+        {
+            "id": 8,
+            "date": "2019-XX-XX",
+            "team1": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "team2": {
+                "key": "XXX",
+                "name": "XXX",
+                "code": "XXX"
+            },
+            "score1": null,
+            "score2": null
+        }
+    ]
+}
