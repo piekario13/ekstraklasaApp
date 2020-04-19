@@ -25,7 +25,7 @@ class Timetable extends Component {
     return !procesing ? (
       <div>
         {rounds.map(element => (
-          <League key={element.name} matches={element.name} />
+          <League key={element.name} matchesLeague={element.name} />
         ))}
       </div>
     ) : (
