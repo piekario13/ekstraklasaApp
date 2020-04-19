@@ -10,15 +10,15 @@
                     "team1": {
                         "key": "wislaplock",
                         "name": "Wisła Płock",
-                        "code": "WISP"
+                        "code": "WISP",
+                        "score": 1
                     },
                     "team2": {
                         "key": "gornik",
                         "name": "Górnik Zabrze",
-                        "code": "GOR"
-                    },
-                    "score1": 1,
-                    "score2": 1
+                        "code": "GOR",
+                        "score": 1
+                    }
                 },
                 {
                     "id": 2,
@@ -26,15 +26,15 @@
                     "team1": {
                         "key": "leg",
                         "name": "Legia Warszawa",
-                        "code": "LEG"
+                        "code": "LEG",
+                        "score": 1
                     },
                     "team2": {
                         "key": "pog",
                         "name": "Pogoń Szczecin",
-                        "code": "POG"
-                    },
-                    "score1": 1,
-                    "score2": 2
+                        "code": "POG",
+                        "score": 1
+                    }
                 },
                 {
                     "id": 3,
@@ -42,15 +42,15 @@
                     "team1": {
                         "key": "zag",
                         "name": "Zagłębie Lubin",
-                        "code": "ZAG"
+                        "code": "ZAG",
+                        "score": 1
                     },
                     "team2": {
                         "key": "crac",
                         "name": "Cracovia Kraków",
-                        "code": "CRA"
-                    },
-                    "score1": 1,
-                    "score2": 1
+                        "code": "CRA",
+                        "score": 1
+                    }
                 },
                 {
                     "id": 4,
@@ -66,7 +66,7 @@
                         "code": "LECH"
                     },
                     "score1": 1,
-                    "score2": 1
+                    "score2": 2
                 },
                 {
                     "id": 5,

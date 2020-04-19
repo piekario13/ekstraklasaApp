@@ -27,7 +27,7 @@ const Navigations = () => {
                 <button>Zaloguj</button>
                 <button>Rejestracja</button>
                 <nav>
-                    <ul>
+                    <ul className="navigation">
                         {menu}
                     </ul>
                 </nav>
