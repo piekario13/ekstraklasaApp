@@ -1,80 +1,96 @@
 "key": "gornik",
 "name": "Górnik Zabrze",
-"code": "GOR"
+"code": "GOR",
+"score": null
 
 
 "key": "wisla",
 "name": "Wisła Kraków",
-"code": "WIS"
+"code": "WIS",
+"score": null
 
 "key": "pog",
 "name": "Pogoń Szczecin",
-"code": "POG"
+"code": "POG",
+"score": null
 
 
 "key": "pia",
 "name": "Piast Gliwice",
-"code": "PIA"
+"code": "PIA",
+"score": null
 
 
 "key": "slask",
 "name": "Śląsk Wrocław",
-"code": "SLA"
+"code": "SLA",
+"score": null
 
 
 "key": "leg",
 "name": "Legia Warszawa",
-"code": "LEG"
+"code": "LEG",
+"score": null
 
 
 "key": "lechia",
 "name": "Lechia Gdańsk",
-"code": "LECG"
+"code": "LECG",
+"score": null
 
 
 "key": "wislaplock",
 "name": "Wisła Płock",
-"code": "WISP"
+"code": "WISP",
+"score": null
 
 
 "key": "lech",
 "name": "Lech Poznań",
-"code": "LECH"
+"code": "LECH",
+"score": null
 
 
 "key": "lks",
 "name": "ŁKS Łódź",
-"code": "LKS"
+"code": "LKS",
+"score": null
 
 
 "key": "crac",
 "name": "Cracovia Kraków",
-"code": "CRA"
+"code": "CRA",
+"score": null
 
 
 "key": "rakow",
 "name": "Raków Częstochowa",
-"code": "RAK"
+"code": "RAK",
+"score": null
 
 
 "key": "jagiellonia",
 "name": "Jagiellonia Białystok",
-"code": "JAG"
+"code": "JAG",
+"score": null
 
 
 "key": "zag",
 "name": "Zagłębie Lubin",
-"code": "ZAG"
+"code": "ZAG",
+"score": null
 
 
 "key": "korona",
 "name": "Korona Kielce",
-"code": "KOR"
+"code": "KOR",
+"score": null
 
 
 "key": "arka",
 "name": "Arka Gdynia",
-"code": "ARK"
+"code": "ARK",
+"score": null
 
 
 
@@ -83,131 +99,131 @@
     "matches": [
         {
             "id": 1,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 2,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 3,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 4,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 5,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 6,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 7,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         },
         {
             "id": 8,
-            "date": "2019-XX-XX",
+            "date": "2020-XX-XX",
             "team1": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
+                "code": "XXX",
+                "score": 0
             },
             "team2": {
                 "key": "XXX",
                 "name": "XXX",
-                "code": "XXX"
-            },
-            "score1": null,
-            "score2": null
+                "code": "XXX",
+                "score": 0
+            }
         }
     ]
 }
