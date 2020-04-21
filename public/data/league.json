@@ -3586,6 +3586,139 @@
           }
         }
       ]
+    },
+    {
+      "name": "Kolejka 27",
+      "matches": [
+        {
+          "id": 1,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 2,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 3,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 4,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 5,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 6,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 7,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        },
+        {
+          "id": 8,
+          "date": "2020-XX-XX",
+          "team1": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          },
+          "team2": {
+            "key": "XXX",
+            "name": "XXX",
+            "code": "XXX",
+            "score": null
+          }
+        }
+      ]
     }
   ]
 }
