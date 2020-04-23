@@ -1,5 +1,4 @@
 import React, { Fragment, useState, useEffect } from "react";
-import "../styles/MainSubject.css";
 import League from "../components/League";
 
 const Timetable = () => {
@@ -14,30 +13,34 @@ const Timetable = () => {
       });
   }, []);
   return !procesing ? (
-    <ul>
-      {rounds.map((element, id) => (
-        <Fragment key={id}>
-          <h1
-            style={{
-              backgroundColor: "#000",
-              color: "#fff",
-              textAlign: "center",
-            }}
-          >
-            {element.name}
-          </h1>{" "}
-          <br />
+
+
+    rounds.reverse().map((element, id) => (
+      <Fragment key={id}>
+        <h1
+          style={{
+            backgroundColor: "#000",
+            color: "#fff",
+            textAlign: "center",
+          }}
+        >
+          {element.name}
+        </h1>{" "}
+        <br />
+        <ul>
           <League
             key={element.name}
             name={element.name}
             matches={element.matches}
           />
-        </Fragment>
-      ))}
-    </ul>
+        </ul>
+      </Fragment>
+    ))
+
+
   ) : (
-    "Trwa ładowanie"
-  );
+      "Trwa ładowanie"
+    );
 };
 
 export default Timetable;
